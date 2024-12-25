@@ -1,7 +1,5 @@
-// const firstName = 'George'
-//firstName = 'Ivan'
-//console.log('hello', firstName)
-
-let firstName = 'George'
-firstName = 'Ivan'
+let firstName = 'Alyona'
+let age = '28'
+let city = 'Moscow'
+let hobbies = 'Pilates, reading'
 console.log('hello', firstName)
