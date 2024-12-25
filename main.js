@@ -5,3 +5,4 @@ const percentage = 10
 const fullPrice = 12332412321n
 const responsive = true
 
+console.log(typeof titleProject)
